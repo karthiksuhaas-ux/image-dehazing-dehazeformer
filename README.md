@@ -26,7 +26,7 @@ This project explores single-image dehazing using a pretrained DehazeFormer mode
 - scikit-image
 
 ## Repository Contents
-- `notebooks/` — project notebook
+- `code/` — project notebook
 - `results/` — evaluation CSV and result visualizations
 
 ## Dataset and Model
